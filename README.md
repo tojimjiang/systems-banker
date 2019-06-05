@@ -15,7 +15,7 @@ a) To run the program after compilation with default behavior use the command `j
 b) To run the program after compilation withOUT side by side printout use the command `java banker 'file' --force`. See below for details.  
 
 ### FreeStyle Compiling
-Open the jj1922.java file and copy and paste the source code into wherever you want to compile. 
+Open the banker.java file and copy and paste the source code into wherever you want to compile. 
 The class declaration (line 21) may need modifications for freestyle compiling.  
 The program must be compiled ito a java unit using the Java compiler using at a minimum Java 7.  
 a) To run the program use the java command, call the program name, and the file.
